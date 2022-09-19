@@ -1,0 +1,23 @@
+Parameters	No. of teeth z	Modulus [mm]	Radius [mm]
+------------------------------------------------------------
+Input sun gear		40		2		400
+
+Input sattelite gear	6		2		160
+
+Input epicyclic		72		2		720
+internal gear		
+
+Output sun gear		16		2		160
+
+Output sattelite gear	40		2		400
+
+Output epicylic		96		2		960
+internal sattite gear	
+
+Output sattle		15		3		225
+
+Additional		24		3		360
+transmission gear	
+
+Input and output	-		-		675
+carriers		
